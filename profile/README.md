@@ -1,10 +1,3 @@
 ## Hi there 👋
 
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+**Aegis** is a software which contains a documented lua sdk. This one has for utility the writing / reading of the memory of a Window process this one can only do it in external for the moment. Aegis is currently in version 0.1 it is all but a finished product it is necessary to envisage still much work. If you are interested in the project I encourage you to visit the documentation.
